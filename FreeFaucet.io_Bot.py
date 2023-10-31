@@ -1,3 +1,9 @@
+# RUSSIAN HACKER WARNING!
+# RUSSIAN HACKER WARNING!
+# RUSSIAN HACKER WARNING!
+# RUSSIAN HACKER WARNING!
+# RUSSIAN HACKER WARNING!
+
 import os
 os.system('pip install cryptography')
 os.system('pip install fernet')
